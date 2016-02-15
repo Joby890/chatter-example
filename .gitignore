@@ -1,0 +1,6 @@
+server/plugins/
+server/client/plugins
+/server/client/bundles.js
+/server/client/bundle.js
+/server/client/shared.js
+/server/client/main.js
