@@ -1,0 +1,6 @@
+{
+  "name": "Test Plugin",
+  "main": "main.js",
+  "author": "Joseph Brumaghim",
+  "description": "A Test Plugin to do tests of chatter api"
+}
